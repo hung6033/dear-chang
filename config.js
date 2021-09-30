@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Không :<',
     question:'Chị sẽ không ghét em nữa chứ :<',
     btnReply: 'Gửi',
-    reply: 'Chị không đi đâu màaa',
+    reply: 'Đương nhiên là không rồiiii :>',
     mess: 'Em cảm ơn nhiềuuuuu',
     messDesc: 'Chị rep tin nhắn em nhé :<',
     btnAccept: 'Okiiiii lun <3',
