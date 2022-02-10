@@ -1,8 +1,8 @@
 const CONFIG = {
     introTitle: 'Tặng Chi',
-    introDesc: `Dẫu biết rằng mình là kẻ đáng ghét
-    Nhưng chị có thể mở lòng,
-    Đón nhận em không?
+    introDesc: `Dẫu biết rằng mình là kẻ đáng ghét,
+    nhưng chị có thể mở lòng,
+    đón nhận em không?
     Em nhớ chị nhiều`,
     btnIntro: '...',
     title: 'Chị có còn ghét em không?',
