@@ -4,7 +4,7 @@ const CONFIG = {
 `,
     btnIntro: ':>',
     title: 'Em làm nguoi yeu anh nhe',
-    desc: 'Và anh sẽ mãi bên em ',
+    desc: 'Hãy mở lòng và tin tưởng anh ',
     btnYes: 'Okay :>',
     btnNo: 'Không :<',
     question:'Em sẽ ở bên cạnh anh chứ :<',
