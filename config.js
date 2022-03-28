@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Tặng Chi',
-    introDesc: `Dẫu biết rằng mình là kẻ đáng ghét,
-    nhưng chị có thể mở lòng,
-    đón nhận em không?
-    Em nhớ chị nhiều`,
-    btnIntro: '...',
-    title: 'Chị có còn ghét em không?',
-    desc: 'Quay lại làm bạn với em nha..? ',
+    introTitle: 'Tặng Chang',
+    introDesc: `Em có biết em khác những vì sao ở điểm nào không? Sao ở trên trời, em ở trong tim anh.
+`,
+    btnIntro: ':>',
+    title: 'Em làm nguoi yeu anh nhe',
+    desc: 'Và anh sẽ mãi bên em ',
     btnYes: 'Okay :>',
     btnNo: 'Không :<',
-    question:'Chị sẽ không ghét em nữa chứ :<',
+    question:'Em sẽ ở bên cạnh anh chứ :<',
     btnReply: 'Gửi',
-    reply: 'Đương nhiên là không rồiiii :>',
-    mess: 'Em cảm ơn nhiềuuuuu',
-    messDesc: 'Chị rep tin nhắn em nhé :<',
+    reply: 'Đương nhiên là có rồiiii :>',
+    mess: 'Yeu emmm',
+    messDesc: 'Em rep tin nhắn  nhé :<',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100051992931764' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
